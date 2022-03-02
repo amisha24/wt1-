@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="file:///C:/Users/priya/Downloads/Priyanka/COLLEGE/WT/transport.css" ?>
+
+<transportdata>
+
+<transport>
+<busno>001</busno>
+<name>Rust Bucket</name>
+<pickup>Pune</pickup>
+<dropoff>Mumbai</dropoff>
+<state>Maharashtra</state>
+</transport>
+
+<transport>
+<busno>022</busno>
+<name>Garba</name>
+<pickup>Kim</pickup>
+<dropoff>Vapi</dropoff>
+<state>Gujarat</state>
+</transport>
+
+<transport>
+<busno>075</busno>
+<name>Miki</name>
+<pickup>Pala</pickup>
+<dropoff>Era2peta</dropoff>
+<state>Kerala</state>
+</transport>
+
+</transportdata>

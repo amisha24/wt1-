@@ -1,0 +1,31 @@
+*{
+    display: block; font-size: 30px;
+}
+busno {
+    font-family: "Lucida Console","Courier New", monospace;
+    font-style: bold;
+    color: red;
+    font-size: 65px;
+    margin-top: 30px;
+}
+name {
+    color: blue;
+    font-size: 45px;
+    margin-top: 30px;
+}
+pickup {
+    color: red;
+    font-size: 45px;
+    margin-top: 30px;
+}
+dropoff {
+    color: blue;
+    font-size: 45px;
+    margin-top: 30px;
+}
+state {
+    font-style: italic;
+    color: red;
+    font-size: 45px;
+    margin-top: 30px;
+}

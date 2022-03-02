@@ -1,0 +1,9 @@
+<!DOCTYPE transport
+[
+<!ELEMENT employee (busno,name,pickup,dropoff,state)>
+<!ELEMENT busno (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT pickup (#PCDATA)>
+<!ELEMENT dropoff (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+]>
